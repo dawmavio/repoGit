@@ -6,3 +6,6 @@ avena
 pepinos
 peras
 manzanas
+gusanos
+albondigas
+Codigo gay
